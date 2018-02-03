@@ -5,3 +5,5 @@ date: Feb 1, 2018
 This is Ariyana's text file.
 
 I had to remake this file and the repo because something went wrong
+
+test text file 1 
