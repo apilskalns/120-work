@@ -1,6 +1,7 @@
 let rows, x_float;
 let cols, y_float;
 
+
 function setup() {
 	createCanvas( windowWidth, windowHeight );
 	frameRate( 10 );
