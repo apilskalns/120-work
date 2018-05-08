@@ -1,3 +1,3 @@
-# Empty p5 sketch.
+# Final Project
 
-Please replace contents of this file with appropriate readme information after finishing your p5 sketch.
+For my final project I am taking a previous homework assignmnet and making it better. I will be adding a "play" button as well as a timer to the destroyer ball game.
